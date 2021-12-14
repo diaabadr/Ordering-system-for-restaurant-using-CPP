@@ -1,4 +1,4 @@
-# Ordering-system-for-restaurant-using-c-
+# Ordering-system-for-restaurant-using CPP
 User can see all menu receips and can order more than one receipe in one order
 1. At the beginning, the cashier uses the program to prepare fill data about menu of recipes.
 2. Now the menu is ready so the user can choose to see the menu or to make an order.
